@@ -1,4 +1,6 @@
 # hello-world
 GitHub practice repository
 
-This seems easy to use so far. 
+Hello world, 
+
+I am Gentzel, I like learning, helping people, and running. 
